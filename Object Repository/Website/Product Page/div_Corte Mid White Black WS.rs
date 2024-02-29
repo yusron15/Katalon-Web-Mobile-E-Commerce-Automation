@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Corte Mid White Black WS</name>
+   <tag></tag>
+   <elementGuidId>b445ed09-b32b-414b-85f6-6caa47327251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-product__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CollectionAjaxContent']/div/div/div/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa9c81d8-1f87-440c-9d3c-2f696ac097b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__title</value>
+      <webElementGuid>405b0653-963a-41de-8781-5d634e73aa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corte Mid White Black WS</value>
+      <webElementGuid>f0211a7d-5710-4dc0-a168-6c63b324983b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CollectionAjaxContent&quot;)/div[@class=&quot;grid grid--uniform grid--scattered-large-4 grid--scattered-small-2 small--grid--flush&quot;]/div[@class=&quot;grid__item grid-product small--one-half medium-up--one-quarter aos-init aos-animate&quot;]/div[@class=&quot;grid-product__content&quot;]/a[@class=&quot;grid-product__link quick-product__btn js-screen-open-product-7457833615551 js-no-transition&quot;]/div[@class=&quot;grid-product__meta&quot;]/div[@class=&quot;grid-product__title&quot;]</value>
+      <webElementGuid>0b50be05-416c-45f4-bc03-ef592086c03e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CollectionAjaxContent']/div/div/div/a/div[2]/div</value>
+      <webElementGuid>5f750c71-e86b-436f-b521-dacdad98be92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::div[33]</value>
+      <webElementGuid>99f00631-f62b-4e58-b120-57f69e3f107b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 475.000,00'])[1]/following::div[46]</value>
+      <webElementGuid>951d8524-b7b5-4ec9-a2f4-701106ae7ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 375.000,00'])[1]/preceding::div[1]</value>
+      <webElementGuid>4ffcf6d1-7e30-4e85-960e-cef9a891a8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Corte Mid White Black WS']/parent::*</value>
+      <webElementGuid>d29d7a6c-dd46-4bde-afde-28a2d2be5cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div</value>
+      <webElementGuid>60ea7eac-822c-4626-8720-6f8b1fcb3095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Corte Mid White Black WS' or . = 'Corte Mid White Black WS')]</value>
+      <webElementGuid>76543cf5-d93f-4e38-bddf-438b32f3183d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

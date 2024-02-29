@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp 375.000,00</name>
+   <tag></tag>
+   <elementGuidId>09cffb81-ba13-4c5d-b0ac-5ea7cb32c818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-product__price > span > span.money</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CollectionAjaxContent']/div/div/div/a/div[2]/div[2]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>334e7eec-ae15-4b48-8627-deca84c0b766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>money</value>
+      <webElementGuid>4bbd7985-cd27-4485-9b23-c206b258f467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 375.000,00</value>
+      <webElementGuid>42d9a306-b58f-494c-9598-c3a11d5fa53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CollectionAjaxContent&quot;)/div[@class=&quot;grid grid--uniform grid--scattered-large-4 grid--scattered-small-2 small--grid--flush&quot;]/div[@class=&quot;grid__item grid-product small--one-half medium-up--one-quarter aos-init aos-animate&quot;]/div[@class=&quot;grid-product__content&quot;]/a[@class=&quot;grid-product__link quick-product__btn js-screen-open-product-7457833615551 js-no-transition&quot;]/div[@class=&quot;grid-product__meta&quot;]/div[@class=&quot;grid-product__price&quot;]/span[1]/span[@class=&quot;money&quot;]</value>
+      <webElementGuid>a0671269-bb41-4854-adf3-fea2e281749e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CollectionAjaxContent']/div/div/div/a/div[2]/div[2]/span/span</value>
+      <webElementGuid>4cdcfcb1-9062-433a-8ce7-8afef8ea1a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corte Mid White Black WS'])[1]/following::span[2]</value>
+      <webElementGuid>905473b5-b7da-48df-919f-a6d6edb9f30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::span[2]</value>
+      <webElementGuid>336812bd-c998-4469-9dd9-d6edead53238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp 375.000,00']/parent::*</value>
+      <webElementGuid>3977c22e-1664-4401-b793-00479673ce7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>7b9926f2-3626-4a45-b799-83c6be19152b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp 375.000,00' or . = 'Rp 375.000,00')]</value>
+      <webElementGuid>72a0469f-49f3-401f-b1fa-0cee01270f54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
