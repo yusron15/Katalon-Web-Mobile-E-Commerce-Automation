@@ -25,6 +25,9 @@ Testing Automation yang menjalankan aplikasi e-commerce dengan aktifitas Login h
     - username
     - password
 
+📁`Video` Berisikan screen recorder 
+
+
 📁`Test Case` memiliki 2 Subfolder:
 
     📂Mobile (untuk run test aplikasi android)
