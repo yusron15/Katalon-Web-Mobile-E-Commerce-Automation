@@ -17,15 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('"C:\\Users\\hp\\Downloads\\Brodo_4.1_apkcombo.com.apk"', true)
+String sessionId = Mobile.startApplication('Brodo_4.1_apkcombo.com.apk', false)
+
+Mobile.startApplication('Brodo_4.1_apkcombo.com.apk', false)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/Sidebar/button_sidebar'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/Sidebar/button_account_sidebar'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Mobile/Sign In/textfield_email'), null, 0)
+Mobile.setText(findTestObject('Object Repository/Mobile/Sign In/textfield_email'), GlobalVariable.username , 0)
 
-Mobile.setText(findTestObject('Object Repository/Mobile/Sign In/textfield_password'), null, 0)
+Mobile.setText(findTestObject('Object Repository/Mobile/Sign In/textfield_password'), GlobalVariable.password , 0)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/Sign In/button_sign_in'), 0)
 
@@ -39,7 +41,7 @@ Mobile.tap(findTestObject('Object Repository/Mobile/Product/button_add_to_bag'),
 
 Mobile.delay(5)
 
-Mobile.closeApplication()
+Mobile.closeApplication(sessionId)
 
 
 
