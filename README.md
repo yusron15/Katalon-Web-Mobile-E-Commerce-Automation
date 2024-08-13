@@ -1,5 +1,5 @@
 
-# Final Project 3
+# Katalon Web & Mobile E-Commerce Automation
 
 Testing Automation yang menjalankan aplikasi e-commerce dengan aktifitas Login hingga Memasukkan Produk kedalam Cart/Keranjang
 
